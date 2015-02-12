@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <TableRow android:gravity="center" >
+
+        <ImageView
+            android:id="@+id/editImageView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="@integer/column_weight1"
+            android:contentDescription="@null"
+            android:padding="5dp"
+            android:src="@android:drawable/ic_menu_edit" />
+        
+             <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="@integer/column_weight1"
+            android:visibility="gone" />
+            
+             
+
+      
+        <CheckBox
+            android:id="@+id/checkBox1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="@integer/column_weight2"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/column3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="@integer/column_weight3"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/activity_form_text_size" />
+
+        <TextView
+            android:id="@+id/column4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="@integer/column_weight4"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/activity_form_text_size" />
+
+        <TextView
+            android:id="@+id/column5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="@integer/column_weight5"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/activity_form_text_size" />
+
+        <TextView
+            android:id="@+id/column6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="@integer/column_weight6"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/activity_form_text_size" />
+
+        <TextView
+            android:id="@+id/column7"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="@integer/column_weight7"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/activity_form_text_size" />
+
+        <TextView
+            android:id="@+id/column8"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="@integer/column_weight8"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/activity_form_text_size" />
+    </TableRow>
+
+</TableLayout>

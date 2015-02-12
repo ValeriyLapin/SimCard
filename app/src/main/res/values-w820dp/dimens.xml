@@ -1,0 +1,19 @@
+<resources>
+
+    <!--
+      Default screen margins, per the Android Design guidelines.
+      800 x 480
+    -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_form_left_rigth_margin">100dp</dimen>
+    <dimen name="activity_form_left_rigth_margin2">200dp</dimen>
+    <dimen name="activity_form_between_margin">5dp</dimen>
+    <dimen name="activity_form_between_rows">3dp</dimen>
+    <dimen name="activity_form_spinner_high">38dp</dimen>
+    <dimen name="activity_form_text_size">16sp</dimen>
+    <dimen name="activity_form_text_height">40dp</dimen>
+
+    <integer name="table_header_lines">2</integer>
+
+</resources>

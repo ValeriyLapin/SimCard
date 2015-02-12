@@ -1,0 +1,4 @@
+/Users/valerylapin/Documents/MyProjects/Elance/SimCard2/app/build/intermediates/classes/debug
+/Users/valerylapin/Documents/MyProjects/Elance/SimCard2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ee3576ebbd958b418d8f5889b36a961b603510ee.jar
+/Users/valerylapin/Documents/MyProjects/Elance/SimCard2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d76ea3cfbf1312ae7a1631fcb948d8835631a041.jar
+/Users/valerylapin/Documents/MyProjects/Elance/SimCard2/app/build/intermediates/pre-dexed/debug/classes-2377fa6d5138c3178817aea9e97b74e736edaad9.jar

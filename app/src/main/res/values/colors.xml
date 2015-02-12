@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="toast_color_red">#E41B17</color>
+    <color name="toast_color_green">#b1f4b1</color>
+    <color name="actionbar_color">#B6B6B4</color>
+    <color name="discription_background_color">#ebebe4</color>
+    <color name="spinner_background_color">#fbfbfb</color>
+    <color name="spinner_stroke_color">#B6B6B4</color>
+
+</resources>
